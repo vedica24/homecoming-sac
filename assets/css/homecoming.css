@@ -193,7 +193,7 @@ overflow-x:hidden;
     display: block;
     position: relative;
     overflow: hidden;
-	z-index:99999;
+	z-index:99;
 }
 
 #hero .play-btn::after {
