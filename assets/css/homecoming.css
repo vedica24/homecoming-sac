@@ -528,7 +528,7 @@ overflow-x:hidden;
 }
 
 
-@media (max-width: 512px) {
+@media (max-width: 768px) {
 .content h2{
 	font-size: 30px;
 	
